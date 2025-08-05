@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" width="480" alt="Chrome Dino Auto-Run" />
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" width="640" height="360" alt="Chrome Dino Auto-Run" style="object-fit: contain;" />
 </p>
 
 <h1 align="center">Hi, I'm Alper — Developer & Creator 👋</h1>
