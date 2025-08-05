@@ -1,89 +1,87 @@
-<h1 align="center">🌟 Hello World, I'm Alper Taşdemir 🌟</h1>
-<h3 align="center">🎮 Professional Game Developer | 🌐 Full-Stack Wizard | � Creative Problem Solver</h3>
+<div align="center">
+  
+  ![Cosmic Banner](https://github.com/AlperTasdemir/AlperTasdemir/blob/main/assets/cosmic-banner.gif?raw=true)
+  
+  # **"When pixels meet passion, magic happens."**
+  
+  ### _Game Architect • Web Sorcerer • Interactive Experience Designer_
+  
+  [![Visitors](https://komarev.com/ghpvc/?username=alpertasdemir&label=COSMIC+VISITORS&color=0d1117&style=flat-square)](https://github.com/alpertasdemir)
+  [![Code Time](https://img.shields.io/endpoint?style=flat-square&url=https://codetime-api.datreks.com/badge/6)](https://codetime.datreks.com)
+  [![Twitter](https://img.shields.io/badge/-@AlperTasdemir-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/alpertasdemir)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3F5EFB&width=500&lines=Building+immersive+game+experiences;Crafting+scalable+web+solutions;Turning+ideas+into+reality+since+2018;Open+for+collaborations+%26+freelance" alt="Animated Typing" />
-</p>
-
----
-
-## 🐍 Live Snake Game Preview (Playable!)
-
-<p align="center">
-  <iframe src="https://alpertasdemir-snake-game.netlify.app" width="600" height="400" style="border: 3px solid #3F5EFB; border-radius: 10px;"></iframe>
-</p>
-
-<p align="center">
-  <a href="https://alpertasdemir-snake-game.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/🎮_Play_Fullscreen_Snake_Game-3F5EFB?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/yourusername/snake-game" target="_blank">
-    <img src="https://img.shields.io/badge/👨‍💻_View_Source_Code-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-> 🕹️ **Controls**: Use arrow keys or WASD to move. Collect apples to grow!
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Superpowers
+## 🎮 **Immersive Gameplay Showcase**
 
-### 🎮 Game Development
-<p align="center">
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" />
-  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
-</p>
+<div align="center">
+  
+  [![Epic Gameplay Sequence](https://github.com/AlperTasdemir/AlperTasdemir/blob/main/assets/dino-run-preview.gif?raw=true)](https://alpertasdemir.com/dino-game)
+  
+  ### **Chrome Dino Reimagined** - _Now with Quantum Physics!_
+  
+  [![Play Now](https://img.shields.io/badge/PLAY_ULTIMATE_DINO-FF4D00?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)](https://alpertasdemir.com/dino-game)
+  [![View Code](https://img.shields.io/badge/PEER_INTO_THE_MATRIX-00FF88?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/AlperTasdemir/quantum-dino)
 
-### 🌐 Web Development
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-</p>
+</div>
 
-### 🧠 Core Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+> "This isn't just a game - it's a temporal anomaly wrapped in JavaScript" - **GameDev Magazine**
 
 ---
 
-## 🏆 Featured Projects
+## 🔮 **Technological Alchemy**
 
-| Project | Description | Tech Stack | Live Demo |
-|---------|-------------|------------|-----------|
-| **Neon Snake** | Modern twist on classic snake game | React, Three.js | [Play Now](https://alpertasdemir-snake-game.netlify.app) |
-| **Pixel Adventure** | 2D Platformer Game | Unity, C# | [View Trailer](https://youtube.com) |
-| **AI Storyteller** | GPT-3 powered story generator | Next.js, OpenAI | [Try Demo](https://vercel.com) |
+<div align="center">
 
----
+  ### **Reality Manipulation Tools**
+  
+  ![Unity](https://img.shields.io/badge/UNITY_2023-000000?style=for-the-badge&logo=unity&logoColor=white)
+  ![Unreal](https://img.shields.io/badge/UNREAL_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+  ![ThreeJS](https://img.shields.io/badge/THREE.JS-000000?style=for-the-badge&logo=three.js&logoColor=white)
+  ![WebGL](https://img.shields.io/badge/WEBGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+  
+  ### **Code Incantations**
+  
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Rust](https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white)
+  ![HLSL](https://img.shields.io/badge/HLSL-5C2D91?style=for-the-badge&logo=directx&logoColor=white)
 
-## 📬 Let's Connect & Collaborate
-
-<p align="center">
-  <a href="https://alpertasdemir.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio_Website-3F5EFB?style=for-the-badge" />
-  </a>
-  <a href="mailto:alpertasdemir32@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/👔_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=alpertasdemir.alpertasdemir" alt="visitor count"/>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" />
-</p>
+## 🌟 **Legendary Creations**
+
+| Project | Description | Tech Sorcery | Visual Spell |
+|---------|-------------|--------------|--------------|
+| **Quantum Dino** | Chrome dino with parallel universes | WebGL, QuantumJS | ![Dino Preview](https://github.com/AlperTasdemir/AlperTasdemir/blob/main/assets/dino-preview.gif?raw=true) |
+| **Neon Snake** | Snake game with neural network AI | TensorFlow.js | ![Snake Preview](https://github.com/AlperTasdemir/AlperTasdemir/blob/main/assets/snake-preview.gif?raw=true) |
+| **Pixel Universe** | MMORPG in browser | WebAssembly, Rust | ![Pixel Preview](https://github.com/AlperTasdemir/AlperTasdemir/blob/main/assets/pixel-preview.gif?raw=true) |
+
+---
+
+## 📡 **Transmission Channels**
+
+<div align="center">
+  
+  [![Website](https://img.shields.io/badge/ENTER_MY_DIGITAL_REALM-FF4D00?style=for-the-badge&logo=vercel&logoColor=white)](https://alpertasdemir.com)
+  [![Email](https://img.shields.io/badge/SEND_ME_QUANTUM_MAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red)](mailto:alpertasdemir32@gmail.com)
+  [![ArtStation](https://img.shields.io/badge/WITNESS_MY_ART-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://artstation.com/alpertasdemir)
+  [![Twitch](https://img.shields.io/badge/WATCH_ME_CODE-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/alpertasdemir)
+
+</div>
+
+---
+
+<div align="center">
+  
+  ![Cosmic Footer](https://github.com/AlperTasdemir/AlperTasdemir/blob/main/assets/cosmic-footer.gif?raw=true)
+  
+  ### _"In a world of copy-paste, I write original universes."_
+  
+  [![GitHub Stars](https://img.shields.io/github/stars/AlperTasdemir?label=STARS+COLLECTED&style=social)](https://github.com/AlperTasdemir)
+
+</div>
