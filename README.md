@@ -1,40 +1,44 @@
 <h1 align="center">Hi there 👋, I'm Alper Taşdemir</h1>
-<h3 align="center">A passionate game and web developer from Türkiye</h3>
+<h3 align="center">🎮 Game Developer | 💻 Web Developer | 🧠 Creative Thinker</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Game+Developer+%F0%9F%8F%B2;Web+Developer+%F0%9F%92%BB;Unity+%7C+C%23+%7C+JavaScript+%7C+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=I+build+games+%F0%9F%8E%AE+and+web+apps+%F0%9F%92%BB;Always+learning+and+creating+%F0%9F%8C%90;Let's+code+together!+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🎮 Playful Dino Game Vibes Below!
+### 🦖 Playful Dino Mood
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qN9cFxfy1zF7a/giphy.gif" alt="Dino Game" width="500"/>
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="500" alt="dino run game gif"/>
+</p>
+
+> *"Life is like a dino run. Just keep going..."*
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-### 🧰 Languages & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
----
-
-### 📫 How to reach me
+### 📫 Contact Me
 
 - 🌐 Website: [edgeoyun.com](https://edgeoyun.com)
-- 📧 Email: **alper@gmail.com** *(örnek adres)*
-- 💬 Ask me about: Game Development, Unity, Web Projects, Arduino
+- 🧠 Project Ideas? Collaboration? Just reach out!
+- ✉️ E-mail: `alper@example.com` *(değiştirilebilir)*
 
 ---
 
-<p align="center">✨ Built with love and a bit of coffee ☕ by Alper ✨</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC466B,100:3F5EFB&height=100&section=footer"/>
+</p>
