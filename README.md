@@ -48,12 +48,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=100&lines=𝙆𝙚𝙚𝙥+𝘾𝙧𝙚𝙖𝙩𝙞𝙣𝙜+𝘼𝙬𝙚𝙨𝙤𝙢𝙚+𝙏𝙝𝙞𝙣𝙜𝙨.;𝙎𝙚𝙚+𝙮𝙤𝙪+𝙞𝙣+𝙩𝙝𝙚+𝙨𝙤𝙪𝙧𝙘𝙚+𝙘𝙤𝙙𝙚+🌌" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://media.tenor.com/Ma5jxK9nXOUAAAAM/turkish-flag.gif" width="120" alt="🇹🇷" />
-</p>
-
-<p align="center" style="font-style: italic; color: gray;">
-  ⠀⠀⠀⠀𝙏𝙝𝙚 𝙚𝙣𝙙? 𝙉𝙖𝙖𝙖𝙝, 𝙟𝙪𝙨𝙩 𝙩𝙝𝙚 𝙗𝙚𝙜𝙞𝙣𝙣𝙞𝙣𝙜...
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=777777&center=true&vCenter=true&width=450&lines=The+End%3F+Naaah%2C+just+the+beginning..." />
 </p>
