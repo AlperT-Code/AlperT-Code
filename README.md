@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:750/format:webp/1*82D2cg8Gpe9CVISaph6RPg.gif" width="320" alt="Chrome Dino Auto-Run" />
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" width="320" alt="Chrome Dino Auto-Run" />
 </p>
 
 <h1 align="center">Hi, I'm Alper — Developer & Creator 👋</h1>
@@ -7,37 +7,28 @@
 
 ---
 
-## 🦖 Chrome Dino Easter Egg
-
-Above is a looping GIF of the iconic Chrome offline dinosaur game —  
-it **runs and jumps automatically** like you're offline but still coding.
-
----
-
 ## 🚀 About Me
 
-- 🔭 Currently exploring **Node.js, Unity, Firebase**
-- 💬 Ask me about **JavaScript, C#, Web & Game Dev**
-- 🎮 I love adding playful surprises in my projects (like the Dino above)
-- 🌱 Always combining code with creativity — making tools, games, experiences
+I'm passionate about building creative web and game projects combining modern technologies and clean code.  
+Always eager to learn and improve, crafting solutions that are both fun and functional.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,unity,firebase,github,figma&perline=6" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,unity,firebase,github,figma&perline=6" alt="Tech Stack" />
 </p>
 
 ---
 
 ## 🔍 Featured Projects
 
-| Project        | Description                                     | Tech Stack                |
-|----------------|-------------------------------------------------|---------------------------|
-| 🎮 Zombie.io   | Browser-based multiplayer zombie shooter        | HTML5, JavaScript, Canvas |
-| 🌐 EdgeCode    | Real-time HTML/CSS/JS editor                    | React, Firebase           |
-| 🛍️ E-Commerce App | Full-featured online store with admin panel    | React, Node.js, MongoDB   |
+| Project          | Description                                   | Tech Stack                  |
+|------------------|-----------------------------------------------|-----------------------------|
+| 🎮 Zombie.io     | Browser-based multiplayer zombie survival game| HTML5, JavaScript, Canvas   |
+| 🌐 EdgeCode      | Real-time HTML/CSS/JS live code editor        | React, Firebase             |
+| 🛍️ E-Commerce App | Modern online store with admin & cart system  | React, Node.js, MongoDB     |
 
 ---
 
@@ -52,25 +43,14 @@ it **runs and jumps automatically** like you're offline but still coding.
 
 ---
 
-## 📈 GitHub Stats
+## 📫 Let’s Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlperT-Code&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlperT-Code&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  <a href="https://yourwebsite.com" target="_blank" style="text-decoration:none; margin-right: 15px; font-weight:bold; color:#0366d6;">
+    🌐 Website
   </a>
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:youremail@example.com" target="_blank" style="text-decoration:none; font-weight:bold; color:#d14836;">
+    ✉️ Email
   </a>
 </p>
 
