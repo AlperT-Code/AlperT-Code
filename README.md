@@ -10,7 +10,7 @@
 ### 🦖 Mini Dino Game Preview
 
 <p align="center">
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="dino game gif" width="480">
+  <img src="https://media.giphy.com/media/KDf0S6m8FzUfS/giphy.gif" alt="dino game gif" width="480">
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
   </a>
 </p>
 
-> ⚠️ *Note: GitHub supports images and links, but not live games. Click the button above to play the game!*
+> ⚠️ *Not: GitHub, canlı oyunları desteklemez. Oyunu oynamak için yukarıdaki düğmeye tıklayın!*
 
 ---
 
