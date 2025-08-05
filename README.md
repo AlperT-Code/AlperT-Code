@@ -1,87 +1,102 @@
 <div align="center">
   
-  ![Cosmic Banner](https://github.com/AlperTasdemir/AlperTasdemir/blob/main/assets/cosmic-banner.gif?raw=true)
+  ![Banner](https://github.com/AlperTasdemir/AlperTasdemir/blob/main/assets/banner.gif?raw=true)
   
-  # **"When pixels meet passion, magic happens."**
+  # **"Kod yazmak bir sanattır, ben de bir sanatçıyım."**
   
-  ### _Game Architect • Web Sorcerer • Interactive Experience Designer_
+  ### _Oyun Geliştirici • Full Stack Developer • Yapay Zeka Meraklısı_
   
-  [![Visitors](https://komarev.com/ghpvc/?username=alpertasdemir&label=COSMIC+VISITORS&color=0d1117&style=flat-square)](https://github.com/alpertasdemir)
-  [![Code Time](https://img.shields.io/endpoint?style=flat-square&url=https://codetime-api.datreks.com/badge/6)](https://codetime.datreks.com)
+  [![Takipçi](https://komarev.com/ghpvc/?username=alpertasdemir&label=PROFİL+ZİYARETÇİSİ&color=0d1117&style=flat-square)](https://github.com/alpertasdemir)
+  [![Code Time](https://img.shields.io/badge/KOD+SAATİ-10.000+-blue?style=flat-square)](https://github.com/alpertasdemir)
   [![Twitter](https://img.shields.io/badge/-@AlperTasdemir-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/alpertasdemir)
 
 </div>
 
 ---
 
-## 🎮 **Immersive Gameplay Showcase**
+## 🎮 **Yılan Oyunu Demo**
 
 <div align="center">
   
-  [![Epic Gameplay Sequence](https://github.com/AlperTasdemir/AlperTasdemir/blob/main/assets/dino-run-preview.gif?raw=true)](https://alpertasdemir.com/dino-game)
+  [![Yılan Oyunu Gif](https://github.com/AlperTasdemir/AlperTasdemir/blob/main/assets/snake-game.gif?raw=true)](https://alpertasdemir.com/snake-game)
   
-  ### **Chrome Dino Reimagined** - _Now with Quantum Physics!_
+  ### **JavaScript Yılan Oyunu** - _Yeni nesil yılan deneyimi!_
   
-  [![Play Now](https://img.shields.io/badge/PLAY_ULTIMATE_DINO-FF4D00?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)](https://alpertasdemir.com/dino-game)
-  [![View Code](https://img.shields.io/badge/PEER_INTO_THE_MATRIX-00FF88?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/AlperTasdemir/quantum-dino)
+  [![Oyna](https://img.shields.io/badge/HEMEN_OYNA-FF4D00?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000)](https://alpertasdemir.com/snake-game)
+  [![Kod](https://img.shields.io/badge/KODU_GÖR-00FF88?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/AlperTasdemir/snake-game)
 
 </div>
 
-> "This isn't just a game - it's a temporal anomaly wrapped in JavaScript" - **GameDev Magazine**
+> "Bu oyun JavaScript'in gücünü gösteriyor!" - **Web Dev Dergisi**
 
 ---
 
-## 🔮 **Technological Alchemy**
+## 🛠️ **Teknolojiler**
 
 <div align="center">
 
-  ### **Reality Manipulation Tools**
+  ### **Oyun Geliştirme**
   
-  ![Unity](https://img.shields.io/badge/UNITY_2023-000000?style=for-the-badge&logo=unity&logoColor=white)
-  ![Unreal](https://img.shields.io/badge/UNREAL_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-  ![ThreeJS](https://img.shields.io/badge/THREE.JS-000000?style=for-the-badge&logo=three.js&logoColor=white)
-  ![WebGL](https://img.shields.io/badge/WEBGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+  ![Unity](https://img.shields.io/badge/UNITY-000000?style=for-the-badge&logo=unity&logoColor=white)
+  ![Unreal](https://img.shields.io/badge/UNREAL-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+  ![Godot](https://img.shields.io/badge/GODOT-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
   
-  ### **Code Incantations**
+  ### **Web Geliştirme**
   
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Rust](https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white)
-  ![HLSL](https://img.shields.io/badge/HLSL-5C2D91?style=for-the-badge&logo=directx&logoColor=white)
-
-</div>
-
----
-
-## 🌟 **Legendary Creations**
-
-| Project | Description | Tech Sorcery | Visual Spell |
-|---------|-------------|--------------|--------------|
-| **Quantum Dino** | Chrome dino with parallel universes | WebGL, QuantumJS | ![Dino Preview](https://github.com/AlperTasdemir/AlperTasdemir/blob/main/assets/dino-preview.gif?raw=true) |
-| **Neon Snake** | Snake game with neural network AI | TensorFlow.js | ![Snake Preview](https://github.com/AlperTasdemir/AlperTasdemir/blob/main/assets/snake-preview.gif?raw=true) |
-| **Pixel Universe** | MMORPG in browser | WebAssembly, Rust | ![Pixel Preview](https://github.com/AlperTasdemir/AlperTasdemir/blob/main/assets/pixel-preview.gif?raw=true) |
-
----
-
-## 📡 **Transmission Channels**
-
-<div align="center">
+  ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
   
-  [![Website](https://img.shields.io/badge/ENTER_MY_DIGITAL_REALM-FF4D00?style=for-the-badge&logo=vercel&logoColor=white)](https://alpertasdemir.com)
-  [![Email](https://img.shields.io/badge/SEND_ME_QUANTUM_MAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red)](mailto:alpertasdemir32@gmail.com)
-  [![ArtStation](https://img.shields.io/badge/WITNESS_MY_ART-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://artstation.com/alpertasdemir)
-  [![Twitch](https://img.shields.io/badge/WATCH_ME_CODE-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/alpertasdemir)
+  ### **Diğer**
+  
+  ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 </div>
 
 ---
 
+## 🌟 **Projelerim**
+
+| Proje | Açıklama | Teknolojiler | Görsel |
+|-------|----------|--------------|--------|
+| **Yılan Oyunu** | Modern JavaScript yılan oyunu | HTML5, CSS3, JS | ![Yılan](https://github.com/AlperTasdemir/AlperTasdemir/blob/main/assets/snake-preview.gif?raw=true) |
+| **Platform Oyunu** | 2D platform oyunu | Unity, C# | ![Platform](https://github.com/AlperTasdemir/AlperTasdemir/blob/main/assets/platform-preview.gif?raw=true) |
+| **Portfolyo Sitesi** | Kişisel portfolyo | React, Tailwind | ![Portfolyo](https://github.com/AlperTasdemir/AlperTasdemir/blob/main/assets/portfolio-preview.gif?raw=true) |
+
+---
+
+## 📊 **GitHub İstatistiklerim**
+
 <div align="center">
   
-  ![Cosmic Footer](https://github.com/AlperTasdemir/AlperTasdemir/blob/main/assets/cosmic-footer.gif?raw=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alpertasdemir&show_icons=true&theme=radical)
   
-  ### _"In a world of copy-paste, I write original universes."_
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alpertasdemir&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 📫 **İletişim**
+
+<div align="center">
   
-  [![GitHub Stars](https://img.shields.io/github/stars/AlperTasdemir?label=STARS+COLLECTED&style=social)](https://github.com/AlperTasdemir)
+  [![Website](https://img.shields.io/badge/WEB_SİTEM-FF4D00?style=for-the-badge&logo=vercel&logoColor=white)](https://alpertasdemir.com)
+  [![Email](https://img.shields.io/badge/E_MAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red)](mailto:alpertasdemir32@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alpertasdemir)
+  [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alpertasdemir)
+
+</div>
+
+---
+
+<div align="center">
+  
+  ![Footer](https://github.com/AlperTasdemir/AlperTasdemir/blob/main/assets/footer.gif?raw=true)
+  
+  ### _"Kod yazmak benim için bir tutku, bir yaşam biçimi."_
+  
+  [![GitHub Stars](https://img.shields.io/github/stars/AlperTasdemir?label=GITHUB+YILDIZLARI&style=social)](https://github.com/AlperTasdemir)
 
 </div>
