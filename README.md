@@ -24,36 +24,36 @@ Always eager to learn and improve, crafting solutions that are both fun and func
 
 ## 🔍 Featured Projects
 
-| Project          | Description                                   | Tech Stack                  |
-|------------------|-----------------------------------------------|-----------------------------|
-| 🎮 Zombie.io     | Browser-based multiplayer zombie survival game| HTML5, JavaScript, Canvas   |
-| 🌐 EdgeCode      | Real-time HTML/CSS/JS live code editor        | React, Firebase             |
-| 🛍️ E-Commerce App | Modern online store with admin & cart system  | React, Node.js, MongoDB     |
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlperT-Code&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlperT-Code&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<table align="center" style="margin: auto;">
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/252/252025.png" alt="Modern Rapid Roll Logo" width="100" style="border-radius: 12px;" />
+      <h3>🎮 Modern Rapid Roll</h3>
+      <p>Fast-paced mobile game with smooth mechanics and exciting levels.</p>
+    </td>
+    <td align="center" style="padding: 20px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/3524/3524632.png" alt="Snipnest Logo" width="100" style="border-radius: 12px;" />
+      <h3>🛠️ Snipnest</h3>
+      <p>Online platform for sharing and exploring code snippets efficiently.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📫 Let’s Connect
 
-<p align="center">
-  <a href="https://yourwebsite.com" target="_blank" style="text-decoration:none; margin-right: 30px; font-weight:bold; font-size:18px; color:#0366d6;">
+<p align="center" style="margin-top: 40px;">
+  <a href="https://yourwebsite.com" target="_blank" style="text-decoration:none; margin-right: 25px; font-weight:bold; font-size:20px; color:#fff; background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%); padding: 12px 28px; border-radius: 30px; box-shadow: 0 4px 15px rgba(101, 66, 255, 0.6); transition: 0.3s ease;">
     🌐 Website
   </a>
-  <a href="mailto:youremail@example.com" target="_blank" style="text-decoration:none; font-weight:bold; font-size:18px; color:#d14836;">
+  <a href="mailto:youremail@example.com" target="_blank" style="text-decoration:none; font-weight:bold; font-size:20px; color:#fff; background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%); padding: 12px 28px; border-radius: 30px; box-shadow: 0 4px 15px rgba(101, 66, 255, 0.6); transition: 0.3s ease;">
     ✉️ Email
   </a>
 </p>
 
 ---
 
-> **“Code is poetry, logic is music.”** 🎵
+<p align="center" style="margin-top: 50px;">
+  <img src="https://media.giphy.com/media/3o6ZsYf3bQk8v5xXvC/giphy.gif" alt="Purple animated lines" width="600" style="border-radius: 12px;" />
+</p>
