@@ -1,78 +1,59 @@
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:750/format:webp/1*82D2cg8Gpe9CVISaph6RPg.gif" width="600" alt="Chrome Dino Auto-Run" />
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" width="800" height="450" alt="Chrome Dino Auto-Run" />
 </p>
 
-<h1 align="center">Hi, I'm Alper Taşdemir! 👋</h1>
+<h1 align="center">𝓗𝓮𝔂, 𝓘'𝓶 𝓐𝓵𝓹𝓮𝓻 🖤</h1>
+<h3 align="center">𝑭𝒖𝒍𝒍‑𝑺𝒕𝒂𝒄𝒌 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 ✨ 𝙛𝙧𝙤𝙢 🇹🇷</h3>
+
+---
+
+### 🧠 𝓐 𝓑𝓲𝓽 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
+
+> 🚀 𝓟𝓪𝓼𝓼𝓲𝓸𝓷𝓪𝓽𝓮 𝓐𝓫𝓸𝓾𝓽 𝓣𝓮𝓬𝓱 & 𝓖𝓪𝓶𝓮 𝓓𝓮𝓿  
+> 🎮 𝓑𝓾𝓲𝓵𝓭𝓲𝓷𝓰 𝓲𝓷 𝓙𝓢, 𝓡𝓮𝓪𝓬𝓽, 𝓤𝓷𝓲𝓽𝔂, 𝓐𝓷𝓭 𝓜𝓸𝓻𝓮  
+> 🌍 𝓛𝓸𝓿𝓮 𝓽𝓸 𝓒𝓻𝓮𝓪𝓽𝓮 𝓕𝓻𝓸𝓶 𝓣𝓾𝓻𝓴𝓮𝔂
+
+---
+
+### 💻 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌
 
 <p align="center">
-  <b>A passionate developer from Turkey</b><br>
-  <i>Turning ideas into beautiful digital experiences 🚀</i>
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,unity,firebase,github,figma&perline=6" alt="Tech Stack" />
 </p>
 
 ---
 
-## 🛠️ Projects I’m proud of
-
-### 🎮 Modern Rapid Roll  
-<p>
-Modern Rapid Roll is a fresh take on the classic mobile game, built with modern tools and a visually enhanced template.  
-⏱️ Fast-paced, challenging and designed for today's players.  
-</p>
+### 📊 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm13azRxc2ZkNTA3amI5NGI0NjJ1bmU1N2ltYW5oMHJwazgwbDYxeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tXL4FHPSnVJ0A/giphy.gif" width="280" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlperT-Code&show_icons=true&theme=radical" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AlperT-Code&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlperT-Code&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### ✂️ Snipnest  
-<p>
-Snipnest is a beautiful code-sharing platform for HTML, CSS, and JavaScript.  
-Users can view and copy styled code blocks with real-time previews.  
-Perfect for learning, sharing, or showcasing web components!
-</p>
+### 📬 𝑪𝒐𝒏𝒕𝒂𝒄𝒕 𝑴𝒆
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWY3Njh1dTRsOG1ncndmMWZvdzFka3k5Y3I5a2pkMnh2NGp0ZHN1diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/v1P5L8ZPC7n0I/giphy.gif" width="280" />
-</p>
-
----
-
-## 🌐 Website & 📧 Contact
-
-- 🔗 Website: [www.alpertasdemir.com](https://www.alpertasdemir.com)  
-- 📧 Email: alpertasdemir.dev@gmail.com
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="180" />
-</p>
-
----
-
-## 💻 Technologies I use
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlperT-Code&show_icons=true&theme=tokyonight" width="460" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlperT-Code&layout=compact&theme=tokyonight" width="320" />
+  <a href="mailto:alpertasdemir32@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://alpertasdemir.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=100&lines=𝙆𝙚𝙚𝙥+𝘾𝙧𝙚𝙖𝙩𝙞𝙣𝙜+𝘼𝙬𝙚𝙨𝙤𝙢𝙚+𝙏𝙝𝙞𝙣𝙜𝙨.;𝙎𝙚𝙚+𝙮𝙤𝙪+𝙞𝙣+𝙩𝙝𝙚+𝙨𝙤𝙪𝙧𝙘𝙚+𝙘𝙤𝙙𝙚+🌌" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.tenor.com/Ma5jxK9nXOUAAAAM/turkish-flag.gif" width="120" alt="🇹🇷" />
+</p>
+
+<p align="center" style="font-style: italic; color: gray;">
+  ⠀⠀⠀⠀𝙏𝙝𝙚 𝙚𝙣𝙙? 𝙉𝙖𝙖𝙖𝙝, 𝙟𝙪𝙨𝙩 𝙩𝙝𝙚 𝙗𝙚𝙜𝙞𝙣𝙣𝙞𝙣𝙜...
 </p>
