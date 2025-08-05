@@ -1,25 +1,25 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Chrome Dino Auto‑Run">
+  <img src="https://miro.medium.com/v2/resize:fit:750/format:webp/1*82D2cg8Gpe9CVISaph6RPg.gif" width="320" alt="Chrome Dino Auto-Run" />
 </p>
 
-<h1 align="center">Hi, I'm Alper — Dev & Creator 👋</h1>
+<h1 align="center">Hi, I'm Alper — Developer & Creator 👋</h1>
 <h3 align="center">Full‑Stack Developer from Türkiye 🇹🇷</h3>
 
 ---
 
 ## 🦖 Chrome Dino Easter Egg
 
-Above is a short looping GIF of the iconic Chrome offline dinosaur game— 
-it **runs automatically and “plays itself” for a few seconds**, just like you're offline but still coding.
+Above is a looping GIF of the iconic Chrome offline dinosaur game —  
+it **runs and jumps automatically** like you're offline but still coding.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently diving into **Node.js, Unity, Firebase**
+- 🔭 Currently exploring **Node.js, Unity, Firebase**
 - 💬 Ask me about **JavaScript, C#, Web & Game Dev**
-- 🎮 Love adding playful surprises in my projects (like the Dino above)
-- 🌱 Combining code with creativity—making tools, games, experiences
+- 🎮 I love adding playful surprises in my projects (like the Dino above)
+- 🌱 Always combining code with creativity — making tools, games, experiences
 
 ---
 
@@ -33,11 +33,11 @@ it **runs automatically and “plays itself” for a few seconds**, just like yo
 
 ## 🔍 Featured Projects
 
-| Project        | Description                                       | Tech Stack                  |
-|----------------|---------------------------------------------------|-----------------------------|
-| 🎮 Zombie.io   | Browser-based multiplayer zombie shooter          | HTML5, JavaScript, Canvas   |
-| 🌐 EdgeCode    | Real-time HTML/CSS/JS editor                      | React, Firebase             |
-| 🛍️ E-Commerce At | Full-featured online store with admin panel        | React, Node.js, MongoDB     |
+| Project        | Description                                     | Tech Stack                |
+|----------------|-------------------------------------------------|---------------------------|
+| 🎮 Zombie.io   | Browser-based multiplayer zombie shooter        | HTML5, JavaScript, Canvas |
+| 🌐 EdgeCode    | Real-time HTML/CSS/JS editor                    | React, Firebase           |
+| 🛍️ E-Commerce App | Full-featured online store with admin panel    | React, Node.js, MongoDB   |
 
 ---
 
