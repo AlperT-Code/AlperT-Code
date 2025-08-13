@@ -2,7 +2,7 @@
   <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" width="800" height="450" alt="Chrome Dino Auto-Run" />
 </p>
 
-<h1 align="center">𝓗𝓮𝔂, 𝓘'𝓶 𝓐𝓵𝓹𝓮𝓻 🖤</h1>
+<h1 align="center">𝓗𝓮𝔂, 𝓘'𝓶 𝓐𝓵𝓹𝓮𝓻 </h1>
 <h3 align="center">𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 ✨ 𝙛𝙧𝙤𝙢 🇹🇷</h3>
 
 ---
