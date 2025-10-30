@@ -38,7 +38,6 @@
 ### 📬 𝑪𝒐𝒏𝒕𝒂𝒄𝒕 𝑴𝒆
 
 <p align="center">
-  <a href="mailto:alpertasdemir32@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://alpertasdemir.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
