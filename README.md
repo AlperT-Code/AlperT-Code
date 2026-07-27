@@ -28,19 +28,25 @@
 
 ---
 
-### 📊 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔
+📊 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=AlperT-Code&show_icons=true&theme=radical" />
+<!-- GitHub Stats (stabil + cache eklendi) -->
 
-  <br />
+<img src="https://github-readme-stats.vercel.app/api?username=AlperT-Code&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AlperT-Code&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+<br />
 
-  <br />
+<!-- Streak Stats (daha stabil alternatif) -->
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlperT-Code&layout=compact&theme=radical" />
+<img src="https://streak-stats.demolab.com?user=AlperT-Code&theme=radical&hide_border=true" />
+
+<br />
+
+<!-- Top Languages -->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlperT-Code&layout=compact&theme=radical&hide_border=true" />
 
 </p>
 
