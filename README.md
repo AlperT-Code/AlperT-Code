@@ -33,16 +33,11 @@
 <p align="center">
 
   <a href="https://alpertasdemir.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-
-<br /><br />
-
-  <a href="https://alpertasdemir.com" target="_blank">
-    <img src="https://img.shields.io/badge/alpertasdemir.com-FF0000?style=flat-square&logo=firefox-browser&logoColor=white" />
+    <img src="https://img.shields.io/badge/🚀_alpertasdemir.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=111111&color=FF0000" />
   </a>
 
 </p>
+
 
 ---
 
