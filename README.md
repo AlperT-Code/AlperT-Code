@@ -40,13 +40,6 @@
 
 ---
 
-### ⚠️ Status
-
-> 🔒 Subscription is currently paused
-> 💳 Please complete the payment to restore access
-
----
-
 <p align="center">
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Keep+Creating+Awesome+Things.;See+you+in+the+source+code+🌌" />
