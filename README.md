@@ -42,12 +42,13 @@
 
 <p align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Keep+Creating+Awesome+Things.;See+you+in+the+source+code+🌌" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&multiline=true&width=420&height=80&lines=Keep+Creating+Awesome+Things.;See+you+in+the+source+code+🌌" />
 
 </p>
 
 <p align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=777777&center=true&vCenter=true&width=450&lines=The+End%3F+Not+really...+just+the+beginning." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=777777&center=true&vCenter=true&width=380&height=60&lines=The+End%3F+Not+really...+just+the+beginning." />
 
 </p>
+
