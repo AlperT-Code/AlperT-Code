@@ -12,8 +12,8 @@
 
 ### 🧠 𝓐 𝓑𝓲𝓽 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
 
-> 🚀 Passionate about **Technology & Game Development**
-> 🎮 Building with **JavaScript, React, Unity & more**
+> 🚀 Passionate about **Technology & Software Dev.**
+> 🎮 Building with **JavaScript, Python, .Net & more**
 > 🌍 Creating and improving every day
 
 ---
