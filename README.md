@@ -33,10 +33,11 @@
 <p align="center">
 
   <a href="https://alpertasdemir.com" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_alpertasdemir.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=111111&color=FF0000" />
+    <img src="https://img.shields.io/badge/alpertasdemir.com-000000?style=for-the-badge&logoColor=white&labelColor=000000&color=000000" />
   </a>
 
 </p>
+
 
 
 ---
