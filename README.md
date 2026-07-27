@@ -14,7 +14,7 @@
 
 > 🚀 Passionate about **Technology & Game Development**
 > 🎮 Building with **JavaScript, React, Unity & more**
-> 🌍 Creating and learning every day from **Turkey**
+> 🌍 Creating and improving every day
 
 ---
 
@@ -22,42 +22,24 @@
 
 <p align="center">
 
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,unity,firebase,github,figma&perline=6" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,unity,firebase,github,figma&perline=6" />
 
 </p>
 
 ---
 
-📊 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔
+### 🌐 𝑴𝒚 𝑾𝒆𝒃𝒔𝒊𝒕𝒆
 
 <p align="center">
 
-<!-- GitHub Stats (stabil + cache eklendi) -->
+  <a href="https://alpertasdemir.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AlperT-Code&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
+<br /><br />
 
-<br />
-
-<!-- Streak Stats (daha stabil alternatif) -->
-
-<img src="https://streak-stats.demolab.com?user=AlperT-Code&theme=radical&hide_border=true" />
-
-<br />
-
-<!-- Top Languages -->
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlperT-Code&layout=compact&theme=radical&hide_border=true" />
-
-</p>
-
----
-
-### 📬 𝑪𝒐𝒏𝒕𝒂𝒄𝒕 𝑴𝒆
-
-<p align="center">
-
-  <a href="https://alpertasdemir.com">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  <a href="https://alpertasdemir.com" target="_blank">
+    <img src="https://img.shields.io/badge/alpertasdemir.com-FF0000?style=flat-square&logo=firefox-browser&logoColor=white" />
   </a>
 
 </p>
@@ -66,8 +48,8 @@
 
 ### ⚠️ Status
 
-> 🔒 **Subscription is currently paused**
-> 💳 Please complete the payment to restore full access
+> 🔒 Subscription is currently paused
+> 💳 Please complete the payment to restore access
 
 ---
 
